@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1728965135,
-      "filename": "lineage-21.0-20241015-UNOFFICIAL-miatoll.zip",
-      "id": "a9d97ced4bc7de4e38d8fe62ac67019e",
+      "datetime": 1731663631,
+      "filename": "lineage-21.0-20241115-UNOFFICIAL-miatoll.zip",
+      "id": "8671cd1976925b1e66ed52a8a03a1155",
       "romtype": "unofficial",
-      "size": 1431145464,
-      "url": "https://github.com/ItsVixano-releases/LineageOS_miatoll/releases/download/20241015/lineage-21.0-20241015-UNOFFICIAL-miatoll.zip",
+      "size": 1426482516,
+      "url": "https://github.com/ItsVixano-releases/LineageOS_miatoll/releases/download/20241115/lineage-21.0-20241115-UNOFFICIAL-miatoll.zip",
       "version": "21.0"
     }
   ]
