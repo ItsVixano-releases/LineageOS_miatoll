@@ -1,3 +1,13 @@
 {
-  "response": []
+  "response": [
+    {
+      "datetime": 1737967947,
+      "filename": "lineage-22.1-20250127-UNOFFICIAL-miatoll.zip",
+      "id": "3c1f8d3ba3f4419bea7c58321bf8897f0afef6eb6d89334f1e04da10c3afcefe",
+      "romtype": "unofficial",
+      "size": 1283268306,
+      "url": "https://github.com/ItsVixano-releases/LineageOS_miatoll/releases/download/20250127/lineage-22.1-20250127-UNOFFICIAL-miatoll.zip",
+      "version": "22.1"
+    }
+  ]
 }
